@@ -27,7 +27,7 @@
 
 <br> 
 
-### ⚙Languages and Tools:
+### ⚙ Languages and Tools:
  
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"></a>
