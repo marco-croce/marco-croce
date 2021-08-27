@@ -30,6 +30,7 @@
 ### ⚙ Languages and Tools:
  
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black%22"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a> 
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
