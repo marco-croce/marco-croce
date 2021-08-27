@@ -39,6 +39,7 @@
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 <a href="#"><img  height="30"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"></a>
+<a href="#"><img  height="30"  src="https://img.shields.io/badge/ASSEMBLY-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white%22"></a>
 
 <!--
 **marco-croce/marco-croce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
