@@ -1,4 +1,4 @@
-### <img src="https://iquattromoschettieri.files.wordpress.com/2016/06/funny-smile-tongue-faccina-smile-lingua-linguaccia.gif?w=412" width="70px"/>  Hi there, I'm Marco! 👋 
+### Hi there, I'm Marco! 👋 
 
 -----
 
