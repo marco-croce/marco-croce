@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Marco! 👋🏻 </h1>
 
-### 📙 Student at UnivAQ 
+### 👨🏻‍💻 Software Developer at Hiteco SpA
 
 ### 🗣️ Languages
 
