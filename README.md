@@ -1,22 +1,18 @@
 <h1 align="center"> Hi, I'm Marco! 👋🏻 </h1>
 
-### 👨🏻‍💻 Software Developer at Hiteco SpA
+### 👨🏻‍💻 Software Developer at [Hiteco SpA](https://www.hiteco.it/)
 
 ### 🗣️ Languages
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="50" height="50" />
-</div>
-<br>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" **alt="HTML5" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" **alt="CSS3" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" **alt="SASS" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/java.png" title="Java" **alt="Java" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/c%23.png" title="C#" **alt="C#" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/c.png" title="C" **alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/javascript.png" title="JavaScript" **alt="JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/typescript.png" title="TypeScript" **alt="TypeScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/html.png" title="HTML5" **alt="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/css.png" title="CSS3" **alt="CSS3" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/marco-croce/readme_icons/refs/heads/main/languages/php.png" title="PHP" **alt="PHP" width="50" height="50" />
 </div>
 
 ### 🛠️ Tools
@@ -45,6 +41,7 @@
   <img  height="30"  src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white">
 </div>
 
-### 🔍 Stats
+### 💭 Quote
+![](https://quotes-github-readme.vercel.app/api?quote=Talk%20is%20cheap%2C%20show%20me%20the%20code.%20%E2%80%93&type=horizontal&theme=nord&border=true&author=Linus%20Torvalds)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco-croce">
+
